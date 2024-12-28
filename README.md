@@ -9,10 +9,10 @@ Customizable Sections: Highlight features, testimonials, and product details.
 Call-to-Action Ready: Integrated buttons for purchasing or exploring more.
 SEO-Friendly: Built to rank and attract organic traffic.
 Technologies Used
-HTML5, CSS3, JavaScript
+HTML5, CSS3, JavaScript,scss
 Bootstrap/TailwindCSS (if applicable)
 Optional: React.js, Vue.js, or Angular
 Getting Started
-Clone the repository: git clone https://github.com/your-username/headphone-landing-page.git
-Open index.html in your browser or use a local server for live preview.
+Clone the repository: git clone [https://github.com/your-username/headphone-landing-page.git
+Open index.html](https://github.com/Basha-18/Landing_page) in your browser or use a local server for live preview.
 Customize content and styles as needed.
